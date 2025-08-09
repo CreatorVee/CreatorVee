@@ -11,7 +11,7 @@
 - 💻 **Skilled in:** Python, JavaScript, React, Node.js.
 - 🌱 **Currently Learning:** Advanced software engineering principles, Azure cloud architecture, and backend systems design.
 - 💡 **Goal:** Combine cloud, DevOps, and full-stack development skills to deliver robust and innovative applications.
-- ⚡ **Fun Fact:** I enjoy turning complex problems into simple, elegant solutions — with a good cup of coffee by my side.
+- ⚡ **Fun Fact:** I enjoy learnign new things,I ahev a growth midnset,I want to learn a smuch as possible to the extent that,I am the master of my craft. 
 
 ---
 
@@ -31,11 +31,9 @@
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
 ## 🖼 Visuals & Diagrams  
-> Place your diagrams in an `assets/` folder and showcase them here.  
-Example:  
 
-**System Architecture**  
-![System Architecture](assets/system-architecture.png)  
+**My understanding**  
+
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
@@ -51,4 +49,4 @@ Example:
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
-⭐ *"The best way to predict the future is to invent it." — Alan Kay*
+⭐ *"With God,I can do anything ." —Vincent Nyame*
