@@ -32,7 +32,8 @@
 
 ## 🖼 Visuals & Diagrams  
 
-**My understanding**  
+**My understanding**
+![imple idea of CI/CD piepleine ](assets/Process.png)  
 
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
