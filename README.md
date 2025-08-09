@@ -33,8 +33,8 @@
 ## 🖼 Visuals & Diagrams  
 
 **My understanding**
-![simple idea of CI/CD piepleine ]
-(assets/Process.png)
+![Simple idea of CI/CD pipeline](assets/Process.png)
+
 
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
