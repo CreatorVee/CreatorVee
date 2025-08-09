@@ -33,7 +33,7 @@
 ## 🖼 Visuals & Diagrams  
 
 **My understanding**
-![Simple idea of CI/CD pipeline](assets/Process.png)
+![Simple idea of CI/CD pipeline](Creator-Vee/process.png)
 
 
 
