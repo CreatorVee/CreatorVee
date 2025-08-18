@@ -1,4 +1,5 @@
 # Hi, I'm Vincent Kofi Nyame 👋  
+Email:vincentkofin06@gmail.com-Please get in touch 
 
 💻 **Bootcamp Graduate | Cloud & DevOps Enthusiast | Aspiring Software Engineer**  
 🚀 Passionate about building scalable, reliable, and impactful software solutions.  
@@ -11,7 +12,7 @@
 - 💻 **Skilled in:** Python, JavaScript, React, Node.js.
 - 🌱 **Currently Learning:** Advanced software engineering principles, Azure cloud architecture, and backend systems design.
 - 💡 **Goal:** Combine cloud, DevOps, and full-stack development skills to deliver robust and innovative applications.
-- ⚡ **Fun Fact:** I enjoy learnign new things,I ahev a growth midnset,I want to learn a smuch as possible to the extent that,I am the master of my craft. 
+- ⚡ **Fun Fact:** I enjoy learning new things, I have a growth mindset, and I want to master my craft.  
 
 ---
 
@@ -30,18 +31,9 @@
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
-## 🖼 Visuals & Diagrams  
-
-**My understanding**
-![Simple idea of CI/CD pipeline](Creator-Vee/process.png)
-
-
-
-<div style="border-top: 2px solid black; margin: 20px 0;"></div>
-
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincentkofinyame&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentkofinyame&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreatorVee&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorVee&layout=compact&theme=tokyonight)  
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
@@ -51,4 +43,4 @@
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
-⭐ *"With God,I can do anything ." —Vincent Nyame*
+⭐ *"I put my all in to try and perfect my craft." —Vincent Nyame*
