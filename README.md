@@ -38,7 +38,7 @@ Email:vincentkofin06@gmail.com-Please get in touch
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-nyame-57695b379)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-nyame-257b5837b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentkofin06@gmail.com)  
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
