@@ -28,6 +28,9 @@ Email:vincentkofin06@gmail.com-Please get in touch
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![Alertmanager](https://img.shields.io/badge/Alertmanager-000000?style=for-the-badge&logo=prometheus&logoColor=white)
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
