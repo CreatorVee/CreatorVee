@@ -1,18 +1,18 @@
-# Hi, I'm Vincent Kofi Nyame 👋  
+# Hi, I'm Vincent Kofi Nyame  
 Email:vincentkofin06@gmail.com-Please get in touch 
 
-💻 **Bootcamp Graduate | Cloud & DevOps Enthusiast | Aspiring Software Engineer**  
-🚀 Passionate about building scalable, reliable, and impactful software solutions.  
+ **Bootcamp Graduate | Cloud & DevOps Enthusiast | Aspiring Software Engineer**  
+ Passionate about building scalable, reliable, and impactful software solutions.  
 
 ---
 
-## 🌟 About Me
-- 🎓 **Bootcamp Graduate** with nearly a year of intensive study in software engineering and cloud technologies.
-- 🛠 **Experienced in:** AWS, Kubernetes, Terraform, Docker, Azure.
-- 💻 **Skilled in:** Python, JavaScript, React, Node.js.
-- 🌱 **Currently Learning:** Advanced software engineering principles, Azure cloud architecture, and backend systems design.
-- 💡 **Goal:** Combine cloud, DevOps, and full-stack development skills to deliver robust and innovative applications.
-- ⚡ **Fun Fact:** I enjoy learning new things, I have a growth mindset, and I want to master my craft.  
+##  About Me
+-  **Bootcamp Graduate** with nearly a year of intensive study in software engineering and cloud technologies.
+-  **Experienced in:** AWS, Kubernetes, Terraform, Docker, Azure.
+-  **Skilled in:** Python, JavaScript, React, Node.js.
+-  **Currently Learning:** Advanced software engineering principles, Azure cloud architecture, and backend systems design.
+-  **Goal:** Combine cloud, DevOps, and full-stack development skills to deliver robust and innovative applications.
+-  **Fun Fact:** I enjoy learning new things, I have a growth mindset, and I want to master my craft.  
 
 ---
 
@@ -34,16 +34,16 @@ Email:vincentkofin06@gmail.com-Please get in touch
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreatorVee&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorVee&layout=compact&theme=tokyonight)  
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
-## 📫 Connect With Me  
+## Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-nyame-257b5837b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentkofin06@gmail.com)  
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
-⭐ *"I put my all in to try and perfect my craft." —Vincent Nyame*
+ *"I put my all in to try and perfect my craft." —Vincent Nyame*
