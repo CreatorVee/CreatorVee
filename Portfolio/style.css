@@ -1,0 +1,62 @@
+/* General */
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #0A192F;
+  color: #FFFFFF;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background: #0A192F;
+  color: #64FFDA;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #64FFDA;
+}
+
+section {
+  padding: 3rem 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #64FFDA;
+  margin-bottom: 1rem;
+}
+
+.badges img {
+  margin: 0.5rem;
+  height: 40px;
+}
+
+.project {
+  background: #112240;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.project a {
+  color: #64FFDA;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #112240;
+}
