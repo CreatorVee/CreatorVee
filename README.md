@@ -46,4 +46,4 @@ Email:vincentkofin06@gmail.com-Please get in touch
 
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
- *"I put my all in to try and perfect my craft." —Vincent Nyame*
+ *"I put my all in to  perfecting  my craft." —Vincent Nyame*
