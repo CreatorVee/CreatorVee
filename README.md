@@ -2,7 +2,7 @@
 Email:vincentkofin06@gmail.com-Please get in touch 
 
  **Bootcamp Graduate | Cloud & DevOps Enthusiast | Aspiring  to be in the developing field of AI**  
- Passionate about building scalable, reliable, and impactful SAS solutions / I want to be able to solve problems which i love doing 
+ Passionate about building scalable, reliable, and impactful SAS solutions / I want to be able to solve problems (which i love doing)
 
 ---
 
