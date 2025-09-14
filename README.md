@@ -1,16 +1,16 @@
 # Hi, I'm Vincent Kofi Nyame  
 Email:vincentkofin06@gmail.com-Please get in touch 
 
- **Bootcamp Graduate | Cloud & DevOps Enthusiast | Aspiring Software Engineer**  
- Passionate about building scalable, reliable, and impactful software solutions.  
+ **Bootcamp Graduate | Cloud & DevOps Enthusiast | Aspiring  to be in the developing field of AI**  
+ Passionate about building scalable, reliable, and impactful SAS solutions / I want to be able to solve problems which i love doing 
 
 ---
 
 ##  About Me
--  **Bootcamp Graduate** with nearly a year of intensive study in software engineering and cloud technologies.
+-  **Bootcamp Graduate** with nearly a year of intensive study in devops engineering and cloud technologies.
 -  **Experienced in:** AWS, Kubernetes, Terraform, Docker, Azure.
--  **Skilled in:** Python, JavaScript, React, Node.js.
--  **Currently Learning:** Advanced software engineering principles, Azure cloud architecture, and backend systems design.
+-  **Skilled in:** Aws,Terraform,Kubernetes,Jenkins,Azure,Prometheus and even python
+-  **Currently Learning:** Advanced devops engineering principles, Azure cloud architecture, and backend systems design.
 -  **Goal:** Combine cloud, DevOps, and full-stack development skills to deliver robust and innovative applications.
 -  **Fun Fact:** I enjoy learning new things, I have a growth mindset, and I want to master my craft.  
 
@@ -21,7 +21,6 @@ Email:vincentkofin06@gmail.com-Please get in touch
   
 ## 🛠 Tech Stack  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
