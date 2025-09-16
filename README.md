@@ -8,7 +8,7 @@ Email:vincentkofin06@gmail.com-Please get in touch
 
 ##  About Me
 -  **Bootcamp Graduate** with nearly a year of intensive study in devops engineering and cloud technologies.
--  **Experienced in:** AWS, Kubernetes, Terraform, Docker, Azure.
+-  **Experienced in:** Docker,AWS, Kubernetes, Terraform, Docker, Azure,prometheus and more 
 -  **Skilled in:** Aws,Terraform,Kubernetes,Jenkins,Azure,Prometheus and even python
 -  **Currently Learning:** Advanced devops engineering principles, Azure cloud architecture, and backend systems design.
 -  **Goal:** Combine cloud, DevOps, and full-stack development skills to deliver robust and innovative applications.
