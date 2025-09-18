@@ -35,10 +35,13 @@ I enjoy solving problems and learning new technologies. Currently, I’m focusin
 <div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
 ##  GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreatorVee&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreatorVee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorVee&layout=compact&theme=tokyonight)  
 
-<div style="border-top: 2px solid black; margin: 20px 0;"></div>
 
 ## Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-nyame-257b5837b)
